@@ -1,1 +1,1 @@
-JS code for the Obesity Paradox Prelimenary ANalysis
+JS code for the Obesity Paradox Preliminary Analysis
